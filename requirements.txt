@@ -1,0 +1,7 @@
+matplotlib
+pyscf
+qiskit[visualization]
+numpy
+scipy
+pylint
+notebook
